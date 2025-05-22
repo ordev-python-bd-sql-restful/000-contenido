@@ -19,5 +19,20 @@
 ![](./img/github.png) [ordev-python-bd-sql-restful/001-repaso-modulos-1](https://github.com/ordev-python-bd-sql-restful/001-repaso-modulos-1)
 
 ### Video de la sesión
+
 ![](./img/mp4_file_icon.png) [Vídeo](https://drive.google.com/file/d/1vZmrxmNBCkX9ChccSs61QL33UMdpZfX7/view?usp=drive_link)
 
+## Sesión 02: Repaso de módulos Python - Parte 2
+
+### Slides
+
+![](./img/slides_icon.png) [Presentación](https://docs.google.com/presentation/d/12u5MsXCl7Es19l8AzzDAsxHPApaLXZprcn4tVywq-Bc/edit?usp=drive_link)
+
+### Repo con notas y código de ejemplo
+
+![](./img/github.png) [ordev-python-bd-sql-restful/002-repaso-modulos-2](https://github.com/ordev-python-bd-sql-restful/002-repaso-modulos-2
+)
+
+### Video de la sesión
+
+![](./img/mp4_file_icon.png) [Vídeo](https://drive.google.com/file/d/1oCE84KeFUQZYoBW__WIoVkJEWxHMZuci/view?usp=drive_link)

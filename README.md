@@ -45,4 +45,4 @@ En los repositorios actualicé el código que vimos, aunque no está al 100% ord
 
 ### Video de la sesión  
 
-![](./img/mp4_file_icon.png) [Vídeo](https://drive.google.com/file/d/1XeAzb-3JAqY9n-0JS9mvW6AByzY3oKkT/view?usp=drive_links)
+![](./img/mp4_file_icon.png) [Vídeo](https://drive.google.com/file/d/1e2B5dd-9Nx4B8VTzyRZUsEDaVqGIuUaA/view?usp=drive_link)

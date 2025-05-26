@@ -36,3 +36,13 @@
 ### Video de la sesión
 
 ![](./img/mp4_file_icon.png) [Vídeo](https://drive.google.com/file/d/1oCE84KeFUQZYoBW__WIoVkJEWxHMZuci/view?usp=drive_link)
+
+## Sesión 02.1: Extra dudas de las sesiones 1 y 2
+
+En esta sesión se aprende más de los errores y revisión de documentación que hicimos para ver los temas.
+
+En los repositorios actualicé el código que vimos, aunque no está al 100% ordenado, pero les sirve como referencia.
+
+### Video de la sesión  
+
+![](./img/mp4_file_icon.png) [Vídeo](https://drive.google.com/file/d/1XeAzb-3JAqY9n-0JS9mvW6AByzY3oKkT/view?usp=drive_links)

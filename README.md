@@ -56,7 +56,7 @@ En los repositorios actualicé el código que vimos, aunque no está al 100% ord
 
 ### Libro Google Sheets ejemplo BD
 
-![](./img/google-sheets.png) [Libro Sheets](https://docs.google.com/spreadsheets/d/1DRgRMSruw5Wz-XnXNGayGbaArSWohrGmFjzh4QXbs5k/edit?usp=drive_link)
+![](./img/google-sheets.png) [Libro Ejemplos BD](https://docs.google.com/spreadsheets/d/1DRgRMSruw5Wz-XnXNGayGbaArSWohrGmFjzh4QXbs5k/edit?usp=drive_link)
 
 ### Dibujo drawio Notación diagrama E/R
 
@@ -133,7 +133,7 @@ Aquí la misión es ayudar a organizar un centro médico. Piensa en cómo vas a 
   - ![](./img/youtube.png)[Video](https://youtu.be/ztHopE5Wnpc?si=9X9X5VPjOuwc2TYY)
 
 
-## Sesión 004: Introducción a BD relacionales Parte 2 - Lenguaje SQL
+## Sesión 04: Introducción a BD relacionales Parte 2 - Lenguaje SQL 1
 
-TBD.
+![](./img/slides_icon.png) [Presentación](https://docs.google.com/presentation/d/1Jk7lqKvJqGhy8-ZOd-tYmLw1vdVDaEq1PV9G-R3sGrI/edit?usp=drive_link)
 

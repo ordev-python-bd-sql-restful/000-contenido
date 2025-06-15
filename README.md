@@ -111,3 +111,4 @@ En los repositorios actualicé el código que vimos, aunque no está al 100% ord
 
 ![](./img/slides_icon.png) [Presentación](https://docs.google.com/presentation/d/1Jk7lqKvJqGhy8-ZOd-tYmLw1vdVDaEq1PV9G-R3sGrI/edit?usp=drive_link)
 
+[Repo Github](https://github.com/ordev-python-bd-sql-restful/004-intro-db-relacionales-2)

@@ -71,35 +71,9 @@ En los repositorios actualicé el código que vimos, aunque no está al 100% ord
 
 ### Ejercicios propuestos para hacer diagrama E/R
 
-👋 Aquí te traigo una lista de ejercicios súper divertidos para que le saques todo el jugo al diseño de bases de datos y a los diagramas Entidad-Relación (E/R). ¡Es hora de poner a prueba tus neuronas y tu creatividad!
+👋 Revisa el nuevo repo de la sesión 3 y en su `README`conseguirás una lista de ejercicios súper divertidos para que le saques todo el jugo al diseño de bases de datos y a los diagramas Entidad-Relación (E/R). ¡Es hora de poner a prueba tus neuronas y tu creatividad!
 
-Para cada situación que te presento, el reto es que desarrolles un diagrama E/R completo, ¡siguiendo los pasos que vimos en la práctica! No te olvides de usar Draw.io (o cualquier otra herramienta que te guste) y la notación de tu dibujo de ejemplo. ¡Que quede todo súper claro y bien conectado! 🔗
-
-¡Tus Misiones de Diseño! 🚀📜
-Aquí tienes los escenarios donde vas a demostrar tu poder de diseño:
-
-1. ***Tienda en Línea Simplificada 🛒📦***
-Imagina que estás construyendo una plataforma básica para vender cositas por internet. Necesitas gestionar a los clientes, los productos que vendes y todos los pedidos que la gente hace. ¡Piensa en cómo se relacionan!
-2. ***Sistema de Aerolínea Básico ✈️🗺️***
-Ahora, ponte el gorro de ingeniero/a aeronáutico/a. Tienes que gestionar vuelos comerciales: la info de los aviones, las rutas que siguen, los pasajeros y, por supuesto, sus reservas. ¡Que no se te escape ningún detalle de vuelo!
-3. ***Gestión Escolar Simplificada 🏫👨‍🎓👩‍🏫***
-¡De vuelta a clases! Diseña la base de datos para una escuela. Necesitas manejar la info de los estudiantes, los profes, los cursos que se imparten y, lo más importante, ¡las calificaciones que sacan los alumnos!
-4. ***Centro Médico Básico 🏥👩‍⚕️👨‍⚕️***
-Aquí la misión es ayudar a organizar un centro médico. Piensa en cómo vas a gestionar a los pacientes, los médicos, los consultorios y, claro, ¡todas esas citas médicas que se programan!
-5. ***Gestión de Proyectos Simplificada 🚧📋***
-¡Manos a la obra! Crea una herramienta para seguir proyectos. Cada proyecto tiene sus tareas y a cada tarea se le asignan empleados. ¿Cómo conectarías todo para que nadie se pierda en el camino?
-6. ***Plataforma de Streaming de Música 🎶🎧🎤***
-¡Es hora de la música! Imagina un servicio donde los usuarios pueden escuchar canciones, armar sus propias listas de reproducción y descubrir artistas nuevos. ¿Qué entidades necesitas y cómo se relacionan para que la música no pare?
-7. ***Sistema de Reservas de Hotel 🏨🛌🔑***
-¡Bienvenido/a al mundo de la hospitalidad! Diseña una plataforma para gestionar hoteles, sus habitaciones (¡con todos los detalles!) y las reservas que hacen los huéspedes. ¿Cómo trazas el progreso?
-8. ***Gestión de Restaurante y Pedidos a Domicilio 🍽️🛵💨***
-¡Se antoja algo rico! Este restaurante gestiona pedidos en mesa y también tiene un servicio de entrega a domicilio con sus propios repartidores. ¿Cómo organizas los pedidos, las mesas y los motorizados?
-9. ***Plataforma de Cursos Online con Certificaciones 🎓💻🏆***
-¡El saber no ocupa lugar! Diseña un sistema donde los estudiantes se inscriben en cursos, van completando las lecciones (¡paso a paso!) y, al final, ¡pueden obtener certificados! ¿Cómo trazas el progreso?
-10. ***Sistema de Gestión de Inventario para un Almacén 📦📊🚛***
-¡Es hora de poner orden en el almacén! Diseña un sistema para gestionar el inventario, incluyendo productos, proveedores, entradas y salidas de stock, y la ubicación de los productos dentro del almacén. ¡Que no se pierda nada!
-
-¡Recuerda, cada diagrama que haces te acerca más a la maestría en bases de datos! No te frustres si algo no sale a la primera, ¡eso es parte del aprendizaje! ¡A divertirse y a crear estructuras increíbles! 💪🤓
+[Repo Github](https://github.com/ordev-python-bd-sql-restful/003-intro-bd-relacionales-1)
 
 ### Links adicionales
 
